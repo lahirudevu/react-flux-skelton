@@ -1,4 +1,4 @@
-//import '../css/master.scss';
+//import '../css/style.css';
 
 import Home from './pages/Home';
 import About from './pages/About';
